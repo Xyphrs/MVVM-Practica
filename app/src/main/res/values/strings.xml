@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MVVM</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="a">A Side</string>
+    <string name="plazo">B Side</string>
+    <string name="calc_pyth_theo">Calculate Pythagoras Theorem</string>
+</resources>
